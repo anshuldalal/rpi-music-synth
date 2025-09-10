@@ -1,5 +1,5 @@
 # rpi-music-synth
-A Raspberry Pi music synthesizer developed in Python using analog/digital GPIO input
+A Raspberry Pi music synthesizer developed in Python using analog/digital GPIO input. Programmed in Python using the Pygame library. Made for my HS Capstone (June 2024-May 2025)
 
 # Key Functionality
 - 12 keys
@@ -26,4 +26,3 @@ A Raspberry Pi music synthesizer developed in Python using analog/digital GPIO i
 - 1x [Rotary Potentiometer](https://www.microcenter.com/product/503961/adafruit-industries-mini-8-way-sp8t-rotary-selector-switch)
 - 4x [Slide Potentiometer](https://www.amazon.com/uxcell-Variable-Resistors-Potentiometer-Potentiometers/dp/B07VY7V23Q?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1THAZDOWP300U)
 - External Speaker by Headphone Jack
-- 
