@@ -40,4 +40,4 @@ A Raspberry Pi music synthesizer developed in Python using analog/digital GPIO i
 
 ![The internals will look like the above...](DALAL_rpi-music-synth_Guts_Image.jpg)
   
-![But the final product will be much cleaner!](DALAL_rpi-music-synth_Product_Image)
+![But the final product will be much cleaner!](DALAL_rpi-music-synth_Product_Image.jpg)
