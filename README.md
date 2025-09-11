@@ -16,7 +16,7 @@ A Raspberry Pi music synthesizer developed in Python using analog/digital GPIO i
 ## Electronic Components:
 - Raspberry Pi (Model 4b)
 - RPi GPIO Extension Board & Ribbon Cable (Optional)
-- 330-Ohm Resistors
+- 330 Ohm Resistors
 - 12x [SPST Momentary Pushbuttons](https://www.amazon.com/gp/product/B0752RMB7Q/ref=ox_sc_act_image_1?smid=A2O4FZXIRZDLHA&psc=1)
 - 1x [8-position Rotary Switch](https://www.microcenter.com/product/503961/adafruit-industries-mini-8-way-sp8t-rotary-selector-switch)
 - 1x [DPDT Toggle Switch](https://www.amazon.com/mxuteuk-Terminal-momentary-Miniature-Dashboard/dp/B07XHQ8WB4/ref=sr_1_1_sspa?crid=1773VVCD7SDNM&dib=eyJ2IjoiMSJ9.5Z_yWvlQfiTKf29To1uc0QIPQaWVbt-wvVpYmgMLAirgE7DWbOZxQLEFCPUIXwVQxRs64aOuSqRgqlS7u2fgF1vG2X3d-InTJce6sGhB5oIV8CR6ruXM-CouFz1W96Y1zLh_r-ulZ5LMdTtzt5BM3peDr2Tpir3OKhJcr02Mv08PnmBv0Co97xMSls0f3c7yBUa4SdS3XI5TrCGQMc996RPrrprBguMf82B0HWh_7B287bkTQBfhaYKenjxPG3--2pIadT1btp5s-Sy6y6dhzRHdsK6DYXzpz80DqEx0VBQ.FlkuBf6ml4ksVzmfxKNdycWG05C_ZgP-5Y1ni0xUUSs&dib_tag=se&keywords=DPDT%2Bmomentary%2Btoggle%2Bswitch%2Bsmall&qid=1724120175&s=automotive&sprefix=dpdt%2Bmomentary%2Btoggle%2Bswitch%2Bsmal%2Cautomotive%2C97&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
