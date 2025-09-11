@@ -1,5 +1,5 @@
 # rpi-music-synth
-A Raspberry Pi music synthesizer developed in Python using analog/digital GPIO input. Programmed using the Pygame library. Made as my HS Capstone Project (June 2024-May 2025)
+A Raspberry Pi music synthesizer developed in Python using analog/digital GPIO input. Programmed using the Pygame library. Created as my HS Capstone Project (June 2024-May 2025)
 
 # Key Functionality
 - 12 keys
