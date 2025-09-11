@@ -31,7 +31,7 @@ A Raspberry Pi music synthesizer developed in Python using analog/digital GPIO i
 - 22awg Solid-Core Wire (or any easily breadboardable wire)
 - 8/10mm M3 Hex-Head Machine Screws, Nuts
 - 3D Printed Housing
-- - External Speaker with Headphone Jack (rpi has the port built-in)
+- External Speaker with Headphone Jack (rpi has the port built-in)
  
 ## Equipment
 - Soldering Iron
