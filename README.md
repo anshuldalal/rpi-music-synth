@@ -24,6 +24,8 @@ A Raspberry Pi music synthesizer developed in Python using analog/digital GPIO i
 - 1x [Rotary Potentiometer](https://www.amazon.com/DGZZI-Potentiometer-Breadboard-Raspberry-3386MP-103/dp/B07ZYVS2W6/ref=sr_1_1_sspa?crid=W5QH3PKLVY26&dib=eyJ2IjoiMSJ9.hIoYTLYwhX42jpUQ-hv-c-ftjWzcYw_9SR0w16RrMg6SnRgooK6pN-C4G8kI0Fqy40etedxaerX7hg4OHSl_djABM4zkCDyOnpSU3UVP2Adl3ojgEzxbO-tCXWbBmpOW5_q0lZM86zIfLSHSM3cy7_8t9DxaHpMhTzzgGLFy-RJigTrg7ZdwDs5w86BeonX6VAVzhlevXDlxiqvPUjZ5kbMQjvnjERCDTUhYIJf1Od8.THdtucpndPN7q4d6xQsM0pzLDbNchZAhjp6CMQKq1Nc&dib_tag=se&keywords=raspberry+pi+potentiometer&qid=1723496022&sprefix=raspberry+pi+potentiomete%2Caps%2C92&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 - 4x [Slide Potentiometer](https://www.amazon.com/uxcell-Variable-Resistors-Potentiometer-Potentiometers/dp/B07VY7V23Q?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1THAZDOWP300U)
 
+![The interals will look like the above...]()
+
 ## Fabrication
 - SD or MicroSD Card (no need for a lot of storage)
 - Double Sided PCB Prototyping Boards
