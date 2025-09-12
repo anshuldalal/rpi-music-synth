@@ -40,8 +40,10 @@ Learn about the compenents in this [short video](https://drive.google.com/file/d
 - FDM 3D Printing
 - Allen Key
 
-[The internals will look like the above...](DALAL_rpi-music-synth_Guts_Image.jpg)
-  
-[But the final product will be much cleaner!](DALAL_rpi-music-synth_Product_Image.jpg)
+![The internals will look like the above...](DALAL_rpi-music-synth_Guts_Image.jpg)
 
+The internals will look like the above... 
+![But the final product will be much cleaner!](DALAL_rpi-music-synth_Product_Image.jpg)
+
+But the final product will be much cleaner!
 To learn more about the process, see my [Presentation](https://drive.google.com/file/d/1W-1bLab3v_ig_CBMy4-p-iqJWPmVLeuu/view?usp=drive_link), which won me the Project of Excellence Award! 
